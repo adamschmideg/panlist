@@ -1,0 +1,516 @@
+{
+   "url" : "https://trello.com/b/3P0z2MIf/mini-kanban",
+   "members" : [
+      {
+         "bio" : "",
+         "confirmed" : true,
+         "url" : "https://trello.com/adamschmideg",
+         "initials" : "AS",
+         "bioData" : {
+            "emoji" : {}
+         },
+         "memberType" : "normal",
+         "status" : "disconnected",
+         "id" : "51b8c26cf343df443f001c9b",
+         "avatarHash" : "7a700e41ac2646e70d6200bc8933094b",
+         "idPremOrgsAdmin" : [],
+         "fullName" : "Adam Schmideg",
+         "username" : "adamschmideg",
+         "products" : []
+      }
+   ],
+   "lists" : [
+      {
+         "idBoard" : "581e559623caa6927b62860f",
+         "id" : "581e55ac3a29f151c37adf18",
+         "pos" : 65535,
+         "subscribed" : false,
+         "closed" : false,
+         "name" : "Backlog"
+      },
+      {
+         "idBoard" : "581e559623caa6927b62860f",
+         "pos" : 131071,
+         "id" : "581e55c0c9cd87db76dcd94d",
+         "closed" : false,
+         "subscribed" : false,
+         "name" : "In progress"
+      },
+      {
+         "name" : "Done",
+         "id" : "581e55c6534c0d6976473b43",
+         "pos" : 196607,
+         "subscribed" : false,
+         "closed" : false,
+         "idBoard" : "581e559623caa6927b62860f"
+      }
+   ],
+   "idOrganization" : null,
+   "subscribed" : false,
+   "id" : "581e559623caa6927b62860f",
+   "prefs" : {
+      "backgroundImageScaled" : null,
+      "cardCovers" : true,
+      "canInvite" : true,
+      "backgroundTile" : false,
+      "voting" : "disabled",
+      "canBePublic" : true,
+      "selfJoin" : false,
+      "backgroundColor" : "#0079BF",
+      "backgroundBrightness" : "dark",
+      "background" : "blue",
+      "invitations" : "members",
+      "backgroundImage" : null,
+      "permissionLevel" : "private",
+      "canBePrivate" : true,
+      "canBeOrg" : true,
+      "cardAging" : "regular",
+      "calendarFeedEnabled" : false,
+      "comments" : "members"
+   },
+   "dateLastView" : "2016-11-05T22:00:43.354Z",
+   "memberships" : [
+      {
+         "unconfirmed" : false,
+         "memberType" : "admin",
+         "idMember" : "51b8c26cf343df443f001c9b",
+         "id" : "581e559623caa6927b628610",
+         "deactivated" : false
+      }
+   ],
+   "powerUps" : [],
+   "labels" : [
+      {
+         "id" : "581e559684e677fd36303392",
+         "uses" : 0,
+         "name" : "",
+         "color" : "green",
+         "idBoard" : "581e559623caa6927b62860f"
+      },
+      {
+         "uses" : 0,
+         "id" : "581e559684e677fd36303393",
+         "name" : "",
+         "color" : "yellow",
+         "idBoard" : "581e559623caa6927b62860f"
+      },
+      {
+         "idBoard" : "581e559623caa6927b62860f",
+         "color" : "orange",
+         "uses" : 0,
+         "id" : "581e559684e677fd36303394",
+         "name" : ""
+      },
+      {
+         "name" : "",
+         "id" : "581e559684e677fd36303395",
+         "uses" : 0,
+         "idBoard" : "581e559623caa6927b62860f",
+         "color" : "red"
+      },
+      {
+         "idBoard" : "581e559623caa6927b62860f",
+         "color" : "purple",
+         "uses" : 0,
+         "id" : "581e559684e677fd36303396",
+         "name" : ""
+      },
+      {
+         "id" : "581e559684e677fd36303397",
+         "uses" : 0,
+         "name" : "",
+         "color" : "blue",
+         "idBoard" : "581e559623caa6927b62860f"
+      }
+   ],
+   "shortLink" : "3P0z2MIf",
+   "dateLastActivity" : "2016-11-05T22:00:07.825Z",
+   "idTags" : [],
+   "name" : "Mini kanban",
+   "actions" : [
+      {
+         "data" : {
+            "old" : {
+               "name" : "Example"
+            },
+            "board" : {
+               "name" : "Mini kanban",
+               "id" : "581e559623caa6927b62860f",
+               "shortLink" : "3P0z2MIf"
+            }
+         },
+         "memberCreator" : {
+            "username" : "adamschmideg",
+            "id" : "51b8c26cf343df443f001c9b",
+            "initials" : "AS",
+            "fullName" : "Adam Schmideg",
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b"
+         },
+         "date" : "2016-11-05T22:00:30.376Z",
+         "id" : "581e567e2268acfea5b669f6",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "type" : "updateBoard"
+      },
+      {
+         "data" : {
+            "card" : {
+               "shortLink" : "JM2qyUjr",
+               "id" : "581e566705acf314d61f3bb2",
+               "name" : "Sample json",
+               "idShort" : 3
+            },
+            "board" : {
+               "name" : "Example",
+               "shortLink" : "3P0z2MIf",
+               "id" : "581e559623caa6927b62860f"
+            },
+            "list" : {
+               "id" : "581e55c0c9cd87db76dcd94d",
+               "name" : "In progress"
+            }
+         },
+         "memberCreator" : {
+            "initials" : "AS",
+            "fullName" : "Adam Schmideg",
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b",
+            "id" : "51b8c26cf343df443f001c9b",
+            "username" : "adamschmideg"
+         },
+         "type" : "createCard",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "date" : "2016-11-05T22:00:07.832Z",
+         "id" : "581e566705acf314d61f3bb3"
+      },
+      {
+         "data" : {
+            "list" : {
+               "id" : "581e55ac3a29f151c37adf18",
+               "name" : "Backlog"
+            },
+            "old" : {
+               "desc" : ""
+            },
+            "board" : {
+               "id" : "581e559623caa6927b62860f",
+               "shortLink" : "3P0z2MIf",
+               "name" : "Example"
+            },
+            "card" : {
+               "desc" : "See API documentation",
+               "shortLink" : "m2psM4Ka",
+               "id" : "581e5614d680d980e27892d2",
+               "name" : "Download board json",
+               "idShort" : 2
+            }
+         },
+         "memberCreator" : {
+            "fullName" : "Adam Schmideg",
+            "initials" : "AS",
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b",
+            "id" : "51b8c26cf343df443f001c9b",
+            "username" : "adamschmideg"
+         },
+         "date" : "2016-11-05T21:59:32.730Z",
+         "id" : "581e56442ceb6f39d6ddd431",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "type" : "updateCard"
+      },
+      {
+         "data" : {
+            "list" : {
+               "id" : "581e55ac3a29f151c37adf18",
+               "name" : "Backlog"
+            },
+            "board" : {
+               "name" : "Example",
+               "id" : "581e559623caa6927b62860f",
+               "shortLink" : "3P0z2MIf"
+            },
+            "card" : {
+               "idShort" : 2,
+               "id" : "581e5614d680d980e27892d2",
+               "shortLink" : "m2psM4Ka",
+               "name" : "Download board json"
+            }
+         },
+         "type" : "createCard",
+         "date" : "2016-11-05T21:58:44.798Z",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "id" : "581e5614d680d980e27892d3",
+         "memberCreator" : {
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b",
+            "fullName" : "Adam Schmideg",
+            "initials" : "AS",
+            "username" : "adamschmideg",
+            "id" : "51b8c26cf343df443f001c9b"
+         }
+      },
+      {
+         "data" : {
+            "board" : {
+               "name" : "Example",
+               "shortLink" : "3P0z2MIf",
+               "id" : "581e559623caa6927b62860f"
+            },
+            "list" : {
+               "name" : "Backlog",
+               "id" : "581e55ac3a29f151c37adf18"
+            },
+            "card" : {
+               "idShort" : 1,
+               "shortLink" : "PhBDDtjp",
+               "id" : "581e5605767054ff4a9e959a",
+               "name" : "Convert Trello json to Clojure data"
+            }
+         },
+         "memberCreator" : {
+            "id" : "51b8c26cf343df443f001c9b",
+            "username" : "adamschmideg",
+            "initials" : "AS",
+            "fullName" : "Adam Schmideg",
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b"
+         },
+         "type" : "createCard",
+         "date" : "2016-11-05T21:58:29.629Z",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "id" : "581e5605767054ff4a9e959b"
+      },
+      {
+         "data" : {
+            "board" : {
+               "id" : "581e559623caa6927b62860f",
+               "shortLink" : "3P0z2MIf",
+               "name" : "Example"
+            },
+            "list" : {
+               "id" : "581e55c6534c0d6976473b43",
+               "name" : "Done"
+            }
+         },
+         "id" : "581e55c6534c0d6976473b44",
+         "date" : "2016-11-05T21:57:26.147Z",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "type" : "createList",
+         "memberCreator" : {
+            "id" : "51b8c26cf343df443f001c9b",
+            "username" : "adamschmideg",
+            "fullName" : "Adam Schmideg",
+            "initials" : "AS",
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b"
+         }
+      },
+      {
+         "memberCreator" : {
+            "id" : "51b8c26cf343df443f001c9b",
+            "username" : "adamschmideg",
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b",
+            "initials" : "AS",
+            "fullName" : "Adam Schmideg"
+         },
+         "type" : "createList",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "date" : "2016-11-05T21:57:20.779Z",
+         "id" : "581e55c0c9cd87db76dcd94e",
+         "data" : {
+            "board" : {
+               "id" : "581e559623caa6927b62860f",
+               "shortLink" : "3P0z2MIf",
+               "name" : "Example"
+            },
+            "list" : {
+               "name" : "In progress",
+               "id" : "581e55c0c9cd87db76dcd94d"
+            }
+         }
+      },
+      {
+         "memberCreator" : {
+            "id" : "51b8c26cf343df443f001c9b",
+            "username" : "adamschmideg",
+            "fullName" : "Adam Schmideg",
+            "initials" : "AS",
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b"
+         },
+         "date" : "2016-11-05T21:57:00.716Z",
+         "id" : "581e55ac3a29f151c37adf19",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "type" : "createList",
+         "data" : {
+            "board" : {
+               "name" : "Example",
+               "shortLink" : "3P0z2MIf",
+               "id" : "581e559623caa6927b62860f"
+            },
+            "list" : {
+               "id" : "581e55ac3a29f151c37adf18",
+               "name" : "Backlog"
+            }
+         }
+      },
+      {
+         "date" : "2016-11-05T21:56:38.143Z",
+         "idMemberCreator" : "51b8c26cf343df443f001c9b",
+         "id" : "581e559623caa6927b628611",
+         "type" : "createBoard",
+         "memberCreator" : {
+            "avatarHash" : "7a700e41ac2646e70d6200bc8933094b",
+            "fullName" : "Adam Schmideg",
+            "initials" : "AS",
+            "username" : "adamschmideg",
+            "id" : "51b8c26cf343df443f001c9b"
+         },
+         "data" : {
+            "board" : {
+               "id" : "581e559623caa6927b62860f",
+               "shortLink" : "3P0z2MIf",
+               "name" : "Example"
+            }
+         }
+      }
+   ],
+   "cards" : [
+      {
+         "shortLink" : "PhBDDtjp",
+         "dateLastActivity" : "2016-11-05T21:58:29.622Z",
+         "pos" : 65535,
+         "idMembersVoted" : [],
+         "name" : "Convert Trello json to Clojure data",
+         "labels" : [],
+         "idShort" : 1,
+         "attachments" : [],
+         "subscribed" : false,
+         "idAttachmentCover" : null,
+         "badges" : {
+            "votes" : 0,
+            "viewingMemberVoted" : false,
+            "subscribed" : false,
+            "checkItems" : 0,
+            "attachments" : 0,
+            "due" : null,
+            "comments" : 0,
+            "description" : false,
+            "checkItemsChecked" : 0,
+            "fogbugz" : ""
+         },
+         "id" : "581e5605767054ff4a9e959a",
+         "pluginData" : [],
+         "idList" : "581e55ac3a29f151c37adf18",
+         "idMembers" : [],
+         "url" : "https://trello.com/c/PhBDDtjp/1-convert-trello-json-to-clojure-data",
+         "shortUrl" : "https://trello.com/c/PhBDDtjp",
+         "idChecklists" : [],
+         "desc" : "",
+         "closed" : false,
+         "descData" : null,
+         "idBoard" : "581e559623caa6927b62860f",
+         "idLabels" : [],
+         "checkItemStates" : null,
+         "due" : null,
+         "manualCoverAttachment" : false,
+         "email" : "adamschmideg+2g9vkmi3k9ftysoknmj+2n6mj9cw8shgzedy2e2+08s25sehmm@boards.trello.com"
+      },
+      {
+         "idShort" : 2,
+         "labels" : [],
+         "name" : "Download board json",
+         "idMembersVoted" : [],
+         "pos" : 131071,
+         "dateLastActivity" : "2016-11-05T21:59:32.724Z",
+         "shortLink" : "m2psM4Ka",
+         "idMembers" : [],
+         "url" : "https://trello.com/c/m2psM4Ka/2-download-board-json",
+         "idList" : "581e55ac3a29f151c37adf18",
+         "pluginData" : [],
+         "id" : "581e5614d680d980e27892d2",
+         "badges" : {
+            "votes" : 0,
+            "viewingMemberVoted" : false,
+            "checkItemsChecked" : 0,
+            "fogbugz" : "",
+            "checkItems" : 0,
+            "attachments" : 0,
+            "subscribed" : false,
+            "due" : null,
+            "comments" : 0,
+            "description" : true
+         },
+         "attachments" : [],
+         "subscribed" : false,
+         "idAttachmentCover" : null,
+         "idBoard" : "581e559623caa6927b62860f",
+         "descData" : {
+            "emoji" : {}
+         },
+         "idChecklists" : [],
+         "shortUrl" : "https://trello.com/c/m2psM4Ka",
+         "closed" : false,
+         "desc" : "See API documentation",
+         "email" : "adamschmideg+2g9vkmi3k9ftysoknmj+2n6mjb0r2xgc3f1qw9e+1kna44htd2@boards.trello.com",
+         "manualCoverAttachment" : false,
+         "due" : null,
+         "checkItemStates" : null,
+         "idLabels" : []
+      },
+      {
+         "shortLink" : "JM2qyUjr",
+         "dateLastActivity" : "2016-11-05T22:00:07.825Z",
+         "pos" : 65535,
+         "idMembersVoted" : [],
+         "name" : "Sample json",
+         "labels" : [],
+         "idShort" : 3,
+         "subscribed" : false,
+         "attachments" : [],
+         "idAttachmentCover" : null,
+         "badges" : {
+            "viewingMemberVoted" : false,
+            "votes" : 0,
+            "fogbugz" : "",
+            "checkItemsChecked" : 0,
+            "subscribed" : false,
+            "checkItems" : 0,
+            "attachments" : 0,
+            "due" : null,
+            "description" : false,
+            "comments" : 0
+         },
+         "id" : "581e566705acf314d61f3bb2",
+         "idList" : "581e55c0c9cd87db76dcd94d",
+         "pluginData" : [],
+         "url" : "https://trello.com/c/JM2qyUjr/3-sample-json",
+         "idMembers" : [],
+         "shortUrl" : "https://trello.com/c/JM2qyUjr",
+         "idChecklists" : [],
+         "desc" : "",
+         "closed" : false,
+         "descData" : null,
+         "idBoard" : "581e559623caa6927b62860f",
+         "idLabels" : [],
+         "checkItemStates" : null,
+         "due" : null,
+         "manualCoverAttachment" : false,
+         "email" : "adamschmideg+2g9vkmi3k9ftysoknmj+2n6mjjwp6kw7hij6xte+2e38r5wsoh@boards.trello.com"
+      }
+   ],
+   "checklists" : [],
+   "pinned" : false,
+   "invitations" : [],
+   "starred" : false,
+   "shortUrl" : "https://trello.com/b/3P0z2MIf",
+   "labelNames" : {
+      "sky" : "",
+      "green" : "",
+      "pink" : "",
+      "orange" : "",
+      "black" : "",
+      "red" : "",
+      "blue" : "",
+      "yellow" : "",
+      "lime" : "",
+      "purple" : ""
+   },
+   "closed" : false,
+   "desc" : "",
+   "invited" : false,
+   "descData" : null
+}
