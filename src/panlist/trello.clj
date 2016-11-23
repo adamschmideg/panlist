@@ -11,10 +11,9 @@
   ([coll] (add-index coll :index)))
 
 ;; TODO: convert to a nested list of content only
-(defn load-board
-  [board-file]
-  (let [board (-> board-file slurp (json/parse-string true))
-        lists (as-> board $
+(defn process-board
+  [board]
+  (let [lists (as-> board $
                     (:lists $)
                     (add-index $ :list-index)
                     (set/project $ [:name :id :list-index])
@@ -24,7 +23,13 @@
                     (add-index $ :card-index)
                     (set/project $ [:name :desc :idList :card-index]))
         joined (set/join lists cards {:id :idList})
-        sorted (sort-by (juxt :list-index :card-index) joined)]
-    (group-by :listName sorted)))
+        grouped (->> joined
+                     (sort-by (juxt :list-index :card-index))
+                     (group-by :listName))]
+    (map (fn [[k v]] [k (map :name v)]
+           grouped))))
 
+(defn load-board
+  [file]
+  (-> file slurp (json/parse-string true) process-board))
 
